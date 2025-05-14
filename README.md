@@ -10,6 +10,9 @@ Electron spins
 
 Qubit
 
+    Normalized
+    Orthogonal
+
 Photon polarizations
 
 Hilbert space
